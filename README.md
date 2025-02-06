@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-<p> <h1>Hi 👋, I'm Abu Tahir</h1>
-<h3>A passionate React frontend developer from India</h3></p>
+<!-- <p> <h1>Hi 👋, I'm Abu Tahir</h1> -->
+<!-- <h3>A passionate React frontend developer from India</h3></p> -->
 </div>
 
 ###
