@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  /> -->
-<img height="350" src="https://i.ibb.co/5xGkGn7q/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg"/>
+<img src="https://i.ibb.co/5xGkGn7q/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg"/>
 
 </div>
 
